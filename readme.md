@@ -16,6 +16,11 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ![image](https://user-images.githubusercontent.com/33353574/137600589-5ad55643-6635-463a-b913-cc9730e2c4b9.png)
 
+# Comparison:
+
+Before the styling, the content in the form is crowded together. The form itself is also not distinguished from the introduction text or the search results table. The styled UI makes the form stand out as an individual component and also makes the content in the form ordered reasonably.
+
+
 
 # CARTE Education Pathways
 

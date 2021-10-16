@@ -4,6 +4,23 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 ![image](https://user-images.githubusercontent.com/33353574/137598159-00d015ad-dd6d-4e77-9cd5-69c4d0a58691.png)
 
+# Home Page
+
+![image](https://user-images.githubusercontent.com/33353574/137600567-bd4ce99f-b504-41a4-818a-a9893a4a8bf7.png)
+
+# Results Page – Form
+
+![image](https://user-images.githubusercontent.com/33353574/137600583-62162a20-6f9b-4c7d-b8e9-265daec513c4.png)
+
+# Results Page – Results Table
+
+![image](https://user-images.githubusercontent.com/33353574/137600589-5ad55643-6635-463a-b913-cc9730e2c4b9.png)
+
+# Comparison:
+
+Before the styling, the content in the form is crowded together. The form itself is also not distinguished from the introduction text or the search results table. The styled UI makes the form stand out as an individual component and also makes the content in the form ordered reasonably.
+
+
 
 # CARTE Education Pathways
 
